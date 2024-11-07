@@ -641,15 +641,14 @@ if st.button('Processar'):
 
 ---
 
-<!-- _backgroundColor: #2b5b84 -->
-<!-- _color: white -->
+<!-- _backgroundColor: white -->
 
 <div class="centered-content" style="text-align: center;">
 
 ```
       🤖 
    ╭─────────╮
-   │ TRHANKS │
+   │ VALEU!! │
    ╰─────────╯
       /[■]\ 
      /  ║  \
@@ -657,8 +656,25 @@ if st.button('Processar'):
     │ │   │ │
     └─┘   └─┘
 ```
-#### Dúvidas? Me procura no:
+
+### Dúvidas? Me procura no:
 🐦 Twitter: @duboc
 💼 LinkedIn: /in/duboc
-📧 Email: duboc@google.com
+📧 Email: duboc@
+
+</div>
+
+---
+
+<!-- _backgroundColor: white -->
+
+<div class="centered-content" style="text-align: center;">
+
+# Acesse o Repositório
+
+<img src="images/qrcode.png" alt="QR Code" width="300" height="300" style="display: block; margin: 20px auto;">
+
+### https://github.com/duboc/eunaofacofrontend
+
+
 </div>
